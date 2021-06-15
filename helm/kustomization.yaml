@@ -1,0 +1,5 @@
+helmCharts:
+- name: cert-manager
+  releaseName: cert-manager
+- name: prometheus-operator
+  releaseName: prometheus-operator
