@@ -1,5 +1,6 @@
 helmCharts:
 - name: cert-manager
-  releaseName: cert-manager
+  releaseName: my-cert-manager
+  namespace: cert-manager
 - name: prometheus-operator
-  releaseName: prometheus-operator
+  releaseName: my-prometheus-operator
