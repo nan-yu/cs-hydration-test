@@ -1,0 +1,13 @@
+*.swp
+*.iml
+
+# Build artifacts
+/certs
+/.output
+*terraform-bundle/
+.terraform
+
+# IDE
+/.idea
+/.vscode
+
